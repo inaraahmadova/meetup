@@ -1,0 +1,23 @@
+﻿@using Meetup.Models
+@model Speakers
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Subtitle" class="form-label">Subtitle</label>
+        <input asp-for="Subtitle" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Image" class="form-label">Image</label>
+        <input asp-for="Image" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Icon" class="form-label">Icon</label>
+        <input asp-for="Icon" class="form-control">
+    </div>
+   
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\viewmodels\\createmeetupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\viewmodels\\createmeetupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\viewmodels\\updatemeetupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\viewmodels\\updatemeetupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\dataacceslayer\\meetupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\dataacceslayer\\meetupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\migrations\\20240521055241_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\migrations\\20240521055241_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\models\\speakers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\models\\speakers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521050423_CreateDbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Meetup\\Migrations\\20240521050423_CreateDbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521045032_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Meetup\\Migrations\\20240521045032_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|c:\\users\\ca.r214.05\\desktop\\ab204araz\\meetup\\meetup\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D536D925-25EF-4748-BBF4-7DECBD575416}|Meetup\\Meetup.csproj|solutionrelative:meetup\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T07:04:42.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateMeetupVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\ViewModels\\UpdateMeetupVM.cs",
+              "RelativeDocumentMoniker": "Meetup\\ViewModels\\UpdateMeetupVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\ViewModels\\UpdateMeetupVM.cs",
+              "RelativeToolTip": "Meetup\\ViewModels\\UpdateMeetupVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:03:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:59:19.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateMeetupVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\ViewModels\\CreateMeetupVM.cs",
+              "RelativeDocumentMoniker": "Meetup\\ViewModels\\CreateMeetupVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\ViewModels\\CreateMeetupVM.cs",
+              "RelativeToolTip": "Meetup\\ViewModels\\CreateMeetupVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:42:34.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA0wC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:41:47.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:41:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Meetup\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:16:49.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Meetup\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Meetup\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:15:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240521055241_CreateTables.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521055241_CreateTables.cs",
+              "RelativeDocumentMoniker": "Meetup\\Migrations\\20240521055241_CreateTables.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521055241_CreateTables.cs",
+              "RelativeToolTip": "Meetup\\Migrations\\20240521055241_CreateTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:52:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetupContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\DataAccesLayer\\MeetupContext.cs",
+              "RelativeDocumentMoniker": "Meetup\\DataAccesLayer\\MeetupContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\DataAccesLayer\\MeetupContext.cs",
+              "RelativeToolTip": "Meetup\\DataAccesLayer\\MeetupContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:28:05.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Speakers.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Models\\Speakers.cs",
+              "RelativeDocumentMoniker": "Meetup\\Models\\Speakers.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Models\\Speakers.cs",
+              "RelativeToolTip": "Meetup\\Models\\Speakers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:46:18.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:28:51.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Meetup\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:18:33.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:40:53.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Meetup\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:16:59.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240521050423_CreateDbtable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521050423_CreateDbtable.cs",
+              "RelativeDocumentMoniker": "Meetup\\Migrations\\20240521050423_CreateDbtable.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521050423_CreateDbtable.cs",
+              "RelativeToolTip": "Meetup\\Migrations\\20240521050423_CreateDbtable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:04:24.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240521045032_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521045032_CreateDb.cs",
+              "RelativeDocumentMoniker": "Meetup\\Migrations\\20240521045032_CreateDb.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Migrations\\20240521045032_CreateDb.cs",
+              "RelativeToolTip": "Meetup\\Migrations\\20240521045032_CreateDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:50:32.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Program.cs",
+              "RelativeDocumentMoniker": "Meetup\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Program.cs",
+              "RelativeToolTip": "Meetup\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:15:21.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Meetup\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:41:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\appsettings.json",
+              "RelativeDocumentMoniker": "Meetup\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\appsettings.json",
+              "RelativeToolTip": "Meetup\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T04:16:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Meetup\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Meetup\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T04:38:41.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Meetup\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\Meetup\\Meetup\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Meetup\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:17:05.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
